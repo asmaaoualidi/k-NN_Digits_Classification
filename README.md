@@ -67,4 +67,3 @@ For any questions, reach out via:
 =======
 # k-NN_Digits_Classification
  k-NN for Handwritten Digit Classification
->>>>>>> 3621b1ace21720ae522d073f1d28ada9e1af052e
