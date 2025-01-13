@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # K-NN Classification on Digits Dataset
 
 ## 📜 Description
